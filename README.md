@@ -1,9 +1,9 @@
-Hi there 👋
+**Hi there** 👋
 
 
 I'm George, a computer engineer passionate about creating user-friendly websites and innovative applications. I enjoy working with a variety of technologies to build practical solutions.
 
-🛠️ Skills and Technologies
+🛠️ **Skills and Technologies**
 
 Programming Languages: HTML, CSS, JavaScript, Python, Java, C, C++
 
@@ -14,7 +14,7 @@ Databases: SQL, JSON
 Tools: Cisco Packet Tracer
 
 
-📚 Projects
+📚 **Projects**
 
 
 1. Electric Vehicle Charging Station Website
@@ -30,7 +30,7 @@ Description: A user-friendly shopping cart application with secure login functio
 Tech Stack: Node.js, Express.js, Handlebars, JSON
 Description: An informative and engaging website providing details on various tourist destinations.
 
-💡 Interests
+💡 **Interests**
 
 
 Innovative Projects: AI, AR, VR
