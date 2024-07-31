@@ -6,8 +6,12 @@ I'm George, a computer engineer passionate about creating user-friendly websites
 
 - 💻 **Programming Languages:** HTML, CSS, JavaScript, Python, Java, C, C++
 - 📱 **Frameworks and Libraries:** Node.js, Express.js, Flutter
-- 🔮 **Databases:** SQL, JSON
+- 🔮 **Databases:** My SQL
+- 🛠️ **Architecture:** Domain-Driven Design
 - 🚀 **Version Control:** Git, GitHub
+
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus.png) ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) ![Dart](https://img.icons8.com/color/48/000000/dart.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![GitHub](https://img.icons8.com/color/48/000000/github.png)
+
 
 ## 📚 Projects
 
