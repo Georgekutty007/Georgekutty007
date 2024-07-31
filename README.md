@@ -1,43 +1,31 @@
 # Hi there 👋
 
-
 I'm George, a computer engineer passionate about creating user-friendly websites and innovative applications. I enjoy working with a variety of technologies to build practical solutions.
 
-# 🛠️ Skills and Technologies
+## 🛠️ Skills and Technologies
 
-💻Programming Languages: HTML, CSS, JavaScript, Python, Java, C, C++
+- 💻 **Programming Languages:** HTML, CSS, JavaScript, Python, Java, C, C++
+- 📱 **Frameworks and Libraries:** Node.js, Express.js, Flutter
+- 🔮 **Databases:** SQL, JSON
+- 🚀 **Version Control:** Git, GitHub
 
-📱Frameworks and Libraries: Node.js, Express.js, Flutter
+## 📚 Projects
 
-🔮Databases: SQL, JSON
+1. **Electric Vehicle Charging Station Website:**
+   - A comprehensive platform for locating and managing electric vehicle charging stations.
+   - **Frontend:** HTML, CSS, JavaScript
+   - **Backend:** PHP, JavaScript
 
-🚀Version Control: Git,Github
+2. **Shopping Cart Application:**
+   - A user-friendly shopping cart application with secure login functionality and JSON-based database management.
+   - **Tech Stack:** Node.js, Express.js, Handlebars, JSON
 
+3. **Gtour:**
+   - An informative and engaging website providing details on various tourist destinations.
+   - **Tech Stack:** Node.js, Express.js, Handlebars, JSON
 
-# 📚 Projects
+## 💡 Interests
 
-
-1. Electric Vehicle Charging Station Website : A comprehensive platform for locating and managing electric vehicle charging stations.
-Frontend: HTML, CSS, JavaScript
-
-Backend: PHP, JavaScript
-
-2. Shopping Cart Application : A user-friendly shopping cart application with secure login functionality and JSON-based database management.
-   
-Tech Stack: Node.js, Express.js, Handlebars, JSON
-
-3. Gtour : An informative and engaging website providing details on various tourist destinations.
-   
-Tech Stack: Node.js, Express.js, Handlebars, JSON
-
-# 💡 Interests
-
-
-Innovative Projects: AI, AR, VR
-Finance and Education: Developing applications that help in financial literacy and educational purposes.
-Community-Oriented Applications: Creating tools and platforms that benefit the community.
-
-<!---
-Georgekutty007/Georgekutty007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Innovative Projects:** AI, AR, VR
+- **Finance and Education:** Developing applications that help in financial literacy and educational purposes.
+- **Community-Oriented Applications:** Creating tools and platforms that benefit the community.
