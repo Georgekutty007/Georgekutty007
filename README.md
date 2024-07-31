@@ -1,36 +1,36 @@
-**Hi there** 👋
+# Hi there 👋
 
 
 I'm George, a computer engineer passionate about creating user-friendly websites and innovative applications. I enjoy working with a variety of technologies to build practical solutions.
 
-🛠️ **Skills and Technologies**
+# 🛠️ Skills and Technologies
 
-Programming Languages: HTML, CSS, JavaScript, Python, Java, C, C++
+💻Programming Languages: HTML, CSS, JavaScript, Python, Java, C, C++
 
-Frameworks and Libraries: Node.js, Express.js, Flutter
+📱Frameworks and Libraries: Node.js, Express.js, Flutter
 
-Databases: SQL, JSON
+🔮Databases: SQL, JSON
 
-Tools: Cisco Packet Tracer
-
-
-📚 **Projects**
+🚀Version Control: Git,Github
 
 
-1. Electric Vehicle Charging Station Website
+# 📚 Projects
+
+
+1. Electric Vehicle Charging Station Website : A comprehensive platform for locating and managing electric vehicle charging stations.
 Frontend: HTML, CSS, JavaScript
+
 Backend: PHP, JavaScript
-Description: A comprehensive platform for locating and managing electric vehicle charging stations.
 
-2. Shopping Cart Application
+2. Shopping Cart Application : A user-friendly shopping cart application with secure login functionality and JSON-based database management.
+   
 Tech Stack: Node.js, Express.js, Handlebars, JSON
-Description: A user-friendly shopping cart application with secure login functionality and JSON-based database management.
 
-3. Tourism Website
+3. Gtour : An informative and engaging website providing details on various tourist destinations.
+   
 Tech Stack: Node.js, Express.js, Handlebars, JSON
-Description: An informative and engaging website providing details on various tourist destinations.
 
-💡 **Interests**
+# 💡 Interests
 
 
 Innovative Projects: AI, AR, VR
